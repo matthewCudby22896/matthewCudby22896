@@ -11,3 +11,28 @@
 ![GitHub Streak](https://streak-stats.demolab.com?user=matthewCudby22896&theme=vue&hide_border=false)
     
 </div>
+
+<p>
+  I’m a third-year <em>Computer Science BSc</em> student at the <a href="https://www.bristol.ac.uk/" target="_blank">University of Bristol</a>, and a former <em>Software Engineering Intern</em> at <a href="https://onebigcircle.co.uk/" target="_blank">One Big Circle</a>.
+</p>
+
+<p>
+  In my final year, I’ve chosen to focus my studies on <em>Computer Vision</em>, <em>Machine Learning</em>, and <em>High-Performance Computing</em>. My final year project, in collaboration with One Big Circle, focuses on <em>Monocular 3D Environment Reconstruction</em> from forward-facing train footage.
+</p>
+
+
+
+<ul>
+  <li>📖 <strong>I'm currently working on:</strong>
+    <ul>
+      <li>
+        An <strong>options chain analysis web application</strong> that visualizes options chain activity and explores the predictive value of max pain theory. 
+        Built using <em>Django</em>, <em>Python</em>, <em>Golang</em>, <em>React</em>, <em>TypeScript</em>, and more.
+      </li>
+      <li>
+        My <strong>dissertation project</strong> on <em>Monocular 3D Reconstruction</em> of the environment around a train, using forward-facing camera footage.
+      </li>
+    </ul>
+  </li>
+</ul>
+
