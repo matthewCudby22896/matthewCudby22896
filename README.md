@@ -20,10 +20,8 @@
   In my final year, I’ve chosen to focus my studies on <em>Computer Vision</em>, <em>Machine Learning</em>, and <em>High-Performance Computing</em>. My final year project, in collaboration with One Big Circle, focuses on <em>Monocular 3D Environment Reconstruction</em> from forward-facing train footage.
 </p>
 
-
-
 <ul>
-  <li>📖 <strong>I'm currently working on:</strong>
+  <li>📚 <strong>I'm currently working on:</strong>
     <ul>
       <li>
         An <strong>options chain analysis web application</strong> that visualizes options chain activity and explores the predictive value of max pain theory. 
@@ -35,4 +33,5 @@
     </ul>
   </li>
 </ul>
+
 
