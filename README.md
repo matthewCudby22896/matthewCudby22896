@@ -1,3 +1,3 @@
 ## Hi there 👋
 
-[![GitHub Streak](https://streak-stats.demolab.com/?user=matthewCudby228961&theme=default)](https://git.io/streak-stats)
+![GitHub Streak](https://streak-stats.demolab.com?user=matthewCudby22896&theme=vue)
