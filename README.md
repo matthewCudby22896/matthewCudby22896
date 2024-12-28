@@ -30,6 +30,9 @@
       <li>
         My <strong>dissertation project</strong> on <em>Monocular 3D Reconstruction</em> of the environment around a train, using forward-facing camera footage.
       </li>
+      <li>
+        <strong>... LeetCode practice 😞 </strong>
+      </li>
     </ul>
   </li>
 </ul>
