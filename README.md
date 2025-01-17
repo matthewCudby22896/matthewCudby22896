@@ -24,14 +24,16 @@
   <li>📚 <strong>I'm currently working on:</strong>
     <ul>
       <li>
-        An <strong>options chain analysis web application</strong> that visualizes options chain activity and explores the predictive value of max pain theory. 
-        Built using <em>Django</em>, <em>Python</em>, <em>Golang</em>, <em>React</em>, <em>TypeScript</em>, and more.
+        An <strong>options chain analysis web application</strong> that visualizes options chain activity and explores the predictive value of max pain theory, built using <em>Django</em>, <em>Python</em>, <em>Golang</em>, <em>React</em>, <em>TypeScript</em>, and more.
       </li>
       <li>
-        My <strong>dissertation project</strong> on <em>Monocular 3D Reconstruction</em> of the environment around a train, using forward-facing camera footage.
+        My <strong>dissertation project</strong> on the <em>Monocular 3D Reconstruction</em> of UK Railway environments from forward-facing camera footage.
       </li>
       <li>
-        <strong>... <a href="https://leetcode.com/u/matthewcudby9/">LeetCode</a> practice 😞 </strong>
+        Studying our <strong>high performance computing</strong> module, which covers parallel programming, GPU and CPU optimization, and real-world supercomputer usage, working primarily in <em>C</em>.
+      </li>
+      <li>
+        <strong>... <a href="https://leetcode.com/u/matthewcudby9/">LeetCode</a> practice 😞</strong>
       </li>
     </ul>
   </li>
