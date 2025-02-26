@@ -8,8 +8,8 @@
 
 <div align="center" >
 
-![GitHub Streak](https://streak-stats.demolab.com?user=matthewCudby22896&theme=vue&hide_border=false)
-    
+![GitHub Streak Stats](https://nirzak-streak-stats.vercel.app/?user=matthewCudby22896&border_radius=5&date_format=M%20j%5B%2C%20Y%5D&background=242424&currStreakNum=EB4717&currStreakLabel=EB4717&sideNums=38DC16&sideLabels=209712&dates=838383&stroke=C5C5C5&border=EBEBEB)
+
 </div>
 
 <p>
