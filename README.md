@@ -32,9 +32,6 @@
       <li>
         Studying our <strong>high performance computing</strong> module, which covers parallel programming, GPU and CPU optimization, and real-world supercomputer usage, working primarily in <em>C</em>.
       </li>
-      <li>
-        <strong>... <a href="https://leetcode.com/u/matthewcudby9/">LeetCode</a> practice 😞</strong>
-      </li>
     </ul>
   </li>
 </ul>
