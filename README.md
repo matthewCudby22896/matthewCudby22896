@@ -11,27 +11,3 @@
 ![GitHub Streak Stats](https://nirzak-streak-stats.vercel.app/?user=matthewCudby22896&border_radius=5&date_format=M%20j%5B%2C%20Y%5D&background=242424&currStreakNum=EB4717&currStreakLabel=EB4717&sideNums=38DC16&sideLabels=209712&dates=838383&stroke=C5C5C5&border=EBEBEB)
 
 </div>
-
-<p>
-  I’m a third-year <em>Computer Science BSc</em> student at the <a href="https://www.bristol.ac.uk/" target="_blank">University of Bristol</a>, and a former <em>Software Engineering Intern</em> at <a href="https://onebigcircle.co.uk/" target="_blank">One Big Circle</a>.
-</p>
-
-<p>
-  In my final year, I’ve chosen to focus my studies on <em>Computer Vision</em>, <em>Machine Learning</em>, and <em>High-Performance Computing</em>. My final year project, in collaboration with One Big Circle, focuses on <em>Monocular 3D Environment Reconstruction</em> from forward-facing train footage.
-</p>
-
-<ul>
-  <li>📚 <strong>I'm currently working on:</strong>
-    <ul>
-      <li>
-        An <strong>options chain analysis web application</strong> that visualizes options chain activity and explores the predictive value of max pain theory, built using <em>Django</em>, <em>Python</em>, <em>Golang</em>, <em>React</em>, <em>TypeScript</em>, and more.
-      </li>
-      <li>
-        My <strong>dissertation project</strong> on the <em>Monocular 3D Reconstruction</em> of UK Railway environments from forward-facing camera footage.
-      </li>
-      <li>
-        Studying our <strong>high performance computing</strong> module, which covers parallel programming, GPU and CPU optimization, and real-world supercomputer usage, working primarily in <em>C</em>.
-      </li>
-    </ul>
-  </li>
-</ul>
